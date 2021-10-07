@@ -1,0 +1,8 @@
+.TodoList {
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    background-color: #eee;
+    width: 60%;
+    left: 20%;
+    position: fixed;
+    padding-left: 1em;
+}

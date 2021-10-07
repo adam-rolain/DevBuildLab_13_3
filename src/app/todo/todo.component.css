@@ -1,0 +1,17 @@
+.complete {
+    color: #ff1493;
+    border: solid 1px #ff1493;
+    width: 1em;
+}
+
+.uncompletedTask {
+    width: 50em;
+}
+
+.completedTask {
+    text-decoration: line-through;
+}
+
+tr {
+    border: solid 1px black;
+}
