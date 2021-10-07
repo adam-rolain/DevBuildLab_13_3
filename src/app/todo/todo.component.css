@@ -2,6 +2,7 @@
     color: #ff1493;
     border: solid 1px #ff1493;
     width: 1em;
+    cursor: pointer;
 }
 
 .uncompletedTask {
@@ -12,6 +13,32 @@
     text-decoration: line-through;
 }
 
-tr {
-    border: solid 1px black;
+table {
+    border: solid 1px #bbb;
+    border-radius: 1em;
+    width: 98%;
+}
+
+input {
+    display: block;
+    width: 97%;
+    margin: 1em 0;
+    height: 1.5em;
+    border: solid 1px #bbb;
+    border-radius: 0.5em;
+    font-size: 1em;
+    padding: 0.5em;
+}
+
+button {
+    background-color: #ff1493;
+    color: #eee;
+    width: 98%;
+    height: 2em;
+    border: solid 1px #bbb;
+    border-radius: 0.5em;
+    font-size: 1em;
+    padding: 0.5em;
+    cursor: pointer;
+    margin-bottom: 2em;
 }
